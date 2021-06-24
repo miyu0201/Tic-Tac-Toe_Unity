@@ -1,0 +1,5 @@
+The theme I chose is love and horror. Simply because love is not always beautiful, sometimes love can turns into hate, and it can be horrible. 
+
+For the two icons, I used a red heart image to represent Love, and a bleeding black heart to represent hate. The game background was made dark and dim to fit the theme. I also chose red text color on black background for PlayerSide and GameOver Panel in order to improve contrast and to enhance the terror atmosphere. 
+
+For the sound effects, I added a suspenseful audio as background music, a deep male voice says "YOU WIN" for winning voice, and a short sound when chosing playerside.
